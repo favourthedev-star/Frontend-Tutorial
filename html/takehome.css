@@ -1,0 +1,14 @@
+body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+      background: whitesmoke;
+      color:black  
+}
+
+footer {
+    text-align: right;
+    color:gray;
+    font-size: 12px;
+    margin-bottom: 30px;
+    padding: 0px;
+}
